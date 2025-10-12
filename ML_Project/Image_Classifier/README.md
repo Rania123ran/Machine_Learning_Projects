@@ -16,7 +16,4 @@ The dataset contains:
 - **10 classes**:
   `Plane`, `Car`, `Bird`, `Cat`, `Deer`, `Dog`, `Frog`, `Horse`, `Ship`, `Truck`
 
-Loaded directly from TensorFlow:
-```python
-from tensorflow.keras import datasets
-(x_train, y_train), (x_test, y_test) = datasets.cifar10.load_data()
+
