@@ -14,7 +14,7 @@ A Convolutional Neural Network (CNN) trained on the CIFAR-10 dataset to classify
 
 ---
 
-### 🔹 [Sentiment Analysis](sentiment-analysis/README.md)
+### 🔹 [Credit-Card-Fraud-Detection/README.md)
 A Natural Language Processing (NLP) project using an LSTM network to classify movie reviews as positive or negative.  
 **Tech:** TensorFlow, Keras, NLTK, Word Embeddings  
 
