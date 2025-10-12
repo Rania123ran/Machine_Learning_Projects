@@ -1,15 +1,15 @@
 # 🧠 Machine Learning Projects
 
-Welcome to my collection of **Machine Learning and Deep Learning** projects.  
-Each folder in this repository contains an independent project with its own code and README file.
+Welcome to my **Machine Learning Projects** repository.  
+This repo contains several independent projects developed using Python, TensorFlow, and Keras.  
+Each project is stored in its own folder with its own code and documentation.
 
 ---
 
 ## 🚀 Projects
 
-- [Image Classifier (CIFAR-10)](image-classifier/README.md)  
-- [Sentiment Analysis](sentiment-analysis/README.md)  
-- [Future Projects](#)
+- [Credit Card Fraud Detection](Credit_Card_Fraud_Detection/README.md)  
+- [Image Classifier (CIFAR-10)](Image_Classifier/README.md)
 
 ---
 
